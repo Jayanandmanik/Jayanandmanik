@@ -95,13 +95,6 @@ Created a real-time detection system using OpenCV and Haar Cascade classifiers t
 
 ---
 
-GitHub Stats
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayanandmanik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanandmanik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-</p>
 
 <p align="center">
 <i>Open to Software Developer / Software Engineer opportunities</i>
