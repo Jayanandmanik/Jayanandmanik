@@ -14,11 +14,12 @@
 
 ### About Me
 
-- 🎓 Recent Computer Science graduate, passionate about backend development and building secure, scalable systems
-- 💻 Currently deepening my skills in **Spring Boot, Spring Security, and REST API design**
+- 🎓 Certified Full Stack Software Developer with hands-on experience in Java, Spring Boot, and REST API development
+- 💻 Strong foundation in OOP, Data Structures & Algorithms, and the Software Development Life Cycle
+- 🔐 Experienced with secure authentication (JWT, Bcrypt, AES-256) and Agile methodologies
 - 🌱 Solved 680+ problems across CodeChef, GeeksforGeeks, and LeetCode
 - 📫 Reach me at **jayanandmanik3@gmail.com**
-- ⚡ Fun fact: I like turning backend architecture into simple, real-world analogies while learning
+- 🎯 Seeking a Software Developer / Software Engineer role
 
 ---
 
@@ -27,9 +28,9 @@
 **Languages**
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 **Backend & Frameworks**
@@ -38,6 +39,7 @@
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 **Databases & Tools**
@@ -49,7 +51,7 @@
 <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/>
 </p>
 
-**Frontend Basics**
+**Frontend (Basics)**
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -59,22 +61,36 @@
 
 ---
 
-### Featured Project
+### Featured Projects
 
 **[Employee Management System](https://github.com/Jayanandmanik/employee-management-system)**
 Secure REST API built with Spring Boot, Spring Security, and JWT-based authentication. Features role-based access control, BCrypt password encryption, and a clean layered architecture (Controller → Service → Repository).
 
+**Secure Cloud-Based Image Encryption System**
+Built a secure cloud storage system with AES-256 encrypted uploads and Bcrypt-based login authentication. Integrated AWS S3 for scalable image handling and implemented Role-Based Access Control (RBAC) using Node.js, MongoDB, and Express.js.
+
+**Movie Ticket Booking System**
+Developed a movie ticket booking system enabling user login, seat selection, and Razorpay payment integration. Engineered secure RESTful APIs with Express.js and MongoDB to manage bookings, validated with 100+ mock transactions.
+
+**Driver Drowsiness Detection System**
+Created a real-time detection system using OpenCV and Haar Cascade classifiers to detect eye closure patterns and trigger alert signals for drowsy drivers, optimized to run under 30ms latency on mid-level hardware.
+
 ---
 
-### GitHub Stats
+### Certifications
 
-<p align="center">
+- Certified IT Specialist – Java (Certiport), 2023
+- Certified IT Specialist – Python (Certiport), 2023
+- Programming Essentials in Python (Cisco), 2022
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanandmanik&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanandmanik&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
+### Programming Achievements
+
+<p>
+<img src="https://img.shields.io/badge/CodeChef-500%2B%20solved%20%7C%201450%20rating-5B4638?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-150%2B%20solved%20%7C%20Top%2069%25-2F8D46?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-30%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </p>
 
 ---
@@ -82,4 +98,3 @@ Secure REST API built with Spring Boot, Spring Security, and JWT-based authentic
 <p align="center">
 <i>Open to Software Developer / Software Engineer opportunities</i>
 </p>
-&count_private=false
